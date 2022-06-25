@@ -1,0 +1,4 @@
+ # config as a safe directory
+ # /usr/bin/git config --global --add safe.directory 
+ # /home/runner/work/explore/1010100100300
+ 
