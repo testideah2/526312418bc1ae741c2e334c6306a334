@@ -1,0 +1,32 @@
+ 
+ # `|config|``| --- | --- | --- |
+    | ---- | ---- | ---- | ---- |` 
+    | ---- | ---- | ---- | ---- | 
+    
+ `| config | ---- | ---- | ---- | ---- | 
+  |safe|
+  |directory|`
+  /usr/bin/git
+    | --global | ---- | ---- | ---- | ---- | 
+    `|safe|`
+,  `|directory|`
+  /usr/bin/git
+    | --add | ---- | ---- | ---- | ---- | 
+    `|safe|`
+,  `|directory|`
+  /usr/bin/git
+    | safe.directory | ---- | ---- | ---- | ---- | 
+    `|safe|`
+,  `|directory|`
+    | /usr/bin/git | ---- | ---- | ---- | ---- | 
+    `|safe|`
+,  `|directory|`
+    | /usr/bin/git | ---- | ---- | ---- | ---- | 
+    `|safe|`
+,  `|directory|`
+    /usr/bin/git
+    | /
+    | home | ---- | ---- | ---- | ---- | 
+    `|safe|`
+,  `|directory|`
+  /usr/bin/git/runner/work/explore/
